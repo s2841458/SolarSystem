@@ -19,17 +19,17 @@
 		}
 		
 		if ($score == "0") {
-			$result = "You got 0.";
+			$result = "Maybe knowing about space isn't for you";
 		} else if ($score == "1") {
-			$result = "You got 1.";
+			$result = "You could be a NASA intern!";
 		} else if ($score == "2") {
-			$result = "You got 2.";
+			$result = "You could be a Physicist";
 		} else if ($score == "3") {
-			$result = "You got 3.";
+			$result = "You could be a space engineer";
 		} else if ($score == "4") {
-			$result = "you got 4!";
+			$result = "you could be an Astronaut!";
 		} else if ($score == "5") {
-			$result = "You got 5!";
+			$result = "you could be an Astronaut!";
 		}
 	}
 ?>
