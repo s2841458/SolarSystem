@@ -1,0 +1,30 @@
+var STAGE_WIDTH = 1280,
+	STAGE_HEIGHT = 720,
+	TIME_PER_FRAME = 33,
+	GAME_FONTS = "bold 20px sans-sarif",
+	TEXT_PRELOADING_X = 10,
+	TEXT_PRELOADING_Y = 10,
+	TEXT_PRELOADING = "LOADING...";
+
+var IMAGE_START_X = 0,
+	IMAGE_START_Y = 0,
+	CHAR_SPEED = 5,
+	SHIP_WIDTH = 96,
+	SHIP_HEIGHT = 48,
+	SHIP_START_X = 0,
+	SHIP_START_Y = 336,
+	MAP_WIDTH = 1280,
+	MAP_HEIGHT = 720;
+
+var PATH_SHIP = "img/ship.png",
+	PATH_SUN = "img/sun.gif",
+	PATH_MERCURY = "img/mercury.gif",
+	PATH_VENUS = "img/venus.gif",
+	PATH_EARTH = "img/earth.gif",
+	PATH_MARS = "img/mars.gif",
+	PATH_JUPITER = "img/jupiter.gif",
+	PATH_SATURN = "img/saturn.gif",
+	PATH_URANUS = "img/uranus.gif",
+	PATH_NEPTUNE = "img/neptune.gif",
+	PATH_PLUTO = "img/pluto.gif",
+	PATH_KUIPER = "img/kuiper.gif";
