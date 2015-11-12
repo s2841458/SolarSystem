@@ -78,7 +78,7 @@
 				<input name="question3" id="q3a4" value="4" type="radio">
 			</fieldset>
 			<fieldset>
-				<h4>Question 4: Which planet is a jocian planet?</h4>
+				<h4>Question 4: Which planet is a jovian planet?</h4>
 				<label for="q4a1">Jupiter.</label>
 				<input name="question4" id="q4a1" value="1" checked="" type="radio"></br>
 				<label for="q4a2">Mercury.</label>
